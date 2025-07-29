@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "WeatherWiseAI",
+    "slug": "weatherwiseai",
+    "version": "1.0.0",
+    "platforms": [
+      "ios"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.keepingupwithtechnology.weatherwiseai",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ac99a1fb-f429-4fd3-96fd-6c2344c6321f"
+      }
+    }
+  }
+}

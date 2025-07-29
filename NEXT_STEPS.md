@@ -17,13 +17,18 @@
 - [x] GitHub repository created
 - [x] Code pushed to GitHub
 - [x] Firebase project setup completed
+- [x] EAS CLI installed (v16.17.3)
+- [x] EAS Build configuration (eas.json) - Project ID: ac99a1fb-f429-4fd3-96fd-6c2344c6321f
+- [x] EAS Project created: @plumwhatt/weatherwiseai
+- [x] Deployment strategy evaluation: **GitHub Actions recommended for native iOS**
+- [ ] Test GitHub Actions build (native iOS deployment)
 - [ ] Enable Firebase services (Authentication, Firestore, Analytics)
 - [ ] Local iOS development environment
 
 ## ⏳ LATER (When Ready for App Store)
-- [ ] Apple Developer Program enrollment ($99/year)
-- [ ] Distribution certificates and provisioning
-- [ ] TestFlight deployment
+- [ ] Apple Developer Program enrollment ($99/year) - **EAS Build will handle this!**
+- [ ] EAS Build cloud deployment to TestFlight
+- [ ] App Store submission via EAS Submit
 
 ## �️ DEVELOPMENT-FIRST WORKFLOW (No Apple Developer Required)
 

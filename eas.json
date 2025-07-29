@@ -1,0 +1,44 @@
+{
+  "cli": {
+    "version": ">= 16.0.0",
+    "appVersionSource": "local"
+  },
+  "build": {
+    "development": {
+      "distribution": "internal",
+      "ios": {
+        "resourceClass": "m-medium",
+        "buildConfiguration": "Debug",
+        "simulator": true,
+        "scheme": "WeatherWiseAI",
+        "buildArtifactPath": "ios/build/Build/Products/Debug-iphonesimulator/WeatherWiseAI.app"
+      }
+    },
+    "preview": {
+      "distribution": "internal",
+      "ios": {
+        "resourceClass": "m-medium", 
+        "buildConfiguration": "Release",
+        "scheme": "WeatherWiseAI",
+        "buildArtifactPath": "ios/build/Build/Products/Release-iphoneos/WeatherWiseAI.ipa"
+      }
+    },
+    "production": {
+      "distribution": "store",
+      "ios": {
+        "resourceClass": "m-medium",
+        "buildConfiguration": "Release", 
+        "scheme": "WeatherWiseAI",
+        "buildArtifactPath": "ios/build/Build/Products/Release-iphoneos/WeatherWiseAI.ipa"
+      }
+    }
+  },
+  "submit": {
+    "production": {
+      "ios": {
+        "appleId": "your.apple.id@email.com",
+        "ascAppId": "placeholder-for-app-store-connect-id"
+      }
+    }
+  }
+}

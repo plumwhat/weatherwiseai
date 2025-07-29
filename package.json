@@ -1,0 +1,19 @@
+{
+  "name": "weatherwiseai",
+  "version": "1.0.0",
+  "description": "WeatherWiseAI: Smart weather-based activity recommendations for iOS",
+  "scripts": {
+    "ios": "echo 'iOS build via EAS'",
+    "build:ios": "xcodebuild -workspace WeatherWiseAI.xcworkspace -scheme WeatherWiseAI -configuration Release -archivePath build/WeatherWiseAI.xcarchive archive",
+    "test": "echo 'Tests will be added'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plumwhat/weatherwiseai.git"
+  },
+  "keywords": ["ios", "weather", "ai", "swiftui", "firebase"],
+  "author": "plumwhat",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
