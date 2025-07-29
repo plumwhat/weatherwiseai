@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Firebase",
+        "repositoryURL": "https://github.com/firebase/firebase-ios-sdk.git",
+        "state": {
+          "branch": null,
+          "revision": "bf0312d3707253aa68ce1b1f7fc3ed7e4f1c0b63",
+          "version": "10.18.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
