@@ -14,6 +14,10 @@
   "keywords": ["ios", "weather", "ai", "swiftui", "firebase"],
   "author": "plumwhat",
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "expo": "~52.0.0"
+  },
+  "devDependencies": {
+    "@expo/config": "~10.0.0"
+  }
 }

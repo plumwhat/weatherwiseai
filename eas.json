@@ -10,8 +10,7 @@
         "resourceClass": "m-medium",
         "buildConfiguration": "Debug",
         "simulator": true,
-        "scheme": "WeatherWiseAI",
-        "xcodeProject": "./WeatherWiseAI.xcodeproj"
+        "scheme": "WeatherWiseAI"
       }
     },
     "preview": {
@@ -19,8 +18,7 @@
       "ios": {
         "resourceClass": "m-medium", 
         "buildConfiguration": "Release",
-        "scheme": "WeatherWiseAI",
-        "xcodeProject": "./WeatherWiseAI.xcodeproj"
+        "scheme": "WeatherWiseAI"
       }
     },
     "production": {
@@ -28,8 +26,7 @@
       "ios": {
         "resourceClass": "m-medium",
         "buildConfiguration": "Release", 
-        "scheme": "WeatherWiseAI",
-        "xcodeProject": "./WeatherWiseAI.xcodeproj"
+        "scheme": "WeatherWiseAI"
       }
     }
   },
