@@ -16,7 +16,7 @@
     <string>YOUR_TEAM_ID</string>
     <key>provisioningProfiles</key>
     <dict>
-        <key>com.yourcompany.weatherwiseai</key>
+        <key>com.keepingupwithtechnology.weatherwiseai</key>
         <string>WeatherWiseAI Distribution Profile</string>
     </dict>
     <key>signingStyle</key>

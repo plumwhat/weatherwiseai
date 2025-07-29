@@ -2,7 +2,8 @@ import Foundation
 
 struct Constants {
     // MARK: - Firebase Configuration
-    static let firebaseProjectID = "your-firebase-project-id"
+    static let firebaseProjectID = "weatherwiseai-007"
+    static let bundleIdentifier = "com.keepingupwithtechnology.weatherwiseai"
     
     // MARK: - UI Constants
     struct UI {
