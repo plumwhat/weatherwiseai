@@ -11,7 +11,7 @@
         "buildConfiguration": "Debug",
         "simulator": true,
         "scheme": "WeatherWiseAI",
-        "buildArtifactPath": "ios/build/Build/Products/Debug-iphonesimulator/WeatherWiseAI.app"
+        "xcodeProject": "./WeatherWiseAI.xcodeproj"
       }
     },
     "preview": {
@@ -20,7 +20,7 @@
         "resourceClass": "m-medium", 
         "buildConfiguration": "Release",
         "scheme": "WeatherWiseAI",
-        "buildArtifactPath": "ios/build/Build/Products/Release-iphoneos/WeatherWiseAI.ipa"
+        "xcodeProject": "./WeatherWiseAI.xcodeproj"
       }
     },
     "production": {
@@ -29,7 +29,7 @@
         "resourceClass": "m-medium",
         "buildConfiguration": "Release", 
         "scheme": "WeatherWiseAI",
-        "buildArtifactPath": "ios/build/Build/Products/Release-iphoneos/WeatherWiseAI.ipa"
+        "xcodeProject": "./WeatherWiseAI.xcodeproj"
       }
     }
   },
